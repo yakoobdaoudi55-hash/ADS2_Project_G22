@@ -1,6 +1,27 @@
-# ADS2_Project_G22
-A university-level Algorithms and Data Structures project developed by a team of three students. It is structured into four modular libraries and implements around 100 functions covering various data structures and algorithms.
-students names are  
-Yaakoub daoudi 
-Boufligha achref 
-Yahia yaysi
+\## Students
+
+Zouaoui Amine G02 , Amira  G18, 
+
+
+
+\## List of implemented procédures and functions
+
+
+
+
+
+
+
+1. fdfds
+2. djdf
+3. 
+4. &#x20;
+
+
+
+\######### How to Execute #########
+
+
+
+You need to execute demo.c and you can have a menu
+
